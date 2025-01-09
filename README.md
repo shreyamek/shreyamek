@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @shreyamek
+- 👋 Hi, I’m Shreya Mekala!
 - 👀 I’m interested in the AI field!
-- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on any intermediate-advanced projects!
 - 📫 How to reach me: through my email shreyamekala01@gmail.com.
 
